@@ -1,15 +1,6 @@
 > **Note**
-> We have rebuilt the Entire architecture during a 24 hour Hackathon and brought down the latency to just 3-5 seconds. Checkout the [new repo](https://github.com/nagarajpandith/hackverse) for the latest version of the project.
-
-![Social Cover - Jab We Meet](https://user-images.githubusercontent.com/83623339/226182317-55a21e48-8176-440e-b16c-93ea218748e2.png)
-[Live Demo](https://jabwemeet.vercel.app/) | [Pitch Deck](https://www.canva.com/design/DAFdhOPv1eA/qvB2ivAdB--1m9PxY-buWw/view?utm_content=DAFdhOPv1eA&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink) | [Hackoverflow 1.0](https://hack-overflow.tech/)
-
 # Jab We Meet
 Jab We Meet is a web application that allows users who speak different languages to converse with ease by translating the audio on the fly and speaking the translated audio in the native language of the user as well as provide them with translated captions. It also offers HD video and screen share, and can accommodate up to 100 concurrent users. The application also generates automatic meeting summaries and transcripts, making it easy for participants to review important details from the meeting.
-
-> This is the Winning solution developed at 36-hour National Level hackathon called 'Hackoverflow 1.0' by PHCET, Navi Mumbai.
-
-![Jab We Meet - winners](https://user-images.githubusercontent.com/83623339/226183207-e8b0198f-c2af-4d1f-a518-0b61e6abab7a.png)
 
 ## Use cases
 - Startups and MNCs with international work culture.
