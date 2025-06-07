@@ -1,12 +1,3 @@
-# LingoIQ
-LingoIQ is a web application that allows users who speak different languages to converse with ease by translating the audio on the fly and speaking the translated audio in the native language of the user as well as provide them with translated captions. It also offers HD video and screen share, and can accommodate up to 100 concurrent users. The application also generates automatic meeting summaries and transcripts, making it easy for participants to review important details from the meeting.
-
-## Use cases
-- Startups and MNCs with international work culture.
-- Freelancers with daily foreign communication.
-- Content creators & live streamers to reach global range audience.
-- Educational organizations to teach courses to multilingual students.
-
 ## Built with
 
 <p align="left">
@@ -17,6 +8,15 @@ LingoIQ is a web application that allows users who speak different languages to 
 <img src="https://trpc.io/img/logo.svg" height="50px">&nbsp; &nbsp; &nbsp;
 <img src="https://www.svgrepo.com/show/374002/prisma.svg" height="50px">
 </p>
+
+# LingoIQ
+LingoIQ is a web application that allows users who speak different languages to converse with ease by translating the audio on the fly and speaking the translated audio in the native language of the user as well as provide them with translated captions. It also offers HD video and screen share, and can accommodate up to 100 concurrent users. The application also generates automatic meeting summaries and transcripts, making it easy for participants to review important details from the meeting.
+
+## Use cases
+- Startups and MNCs with international work culture.
+- Freelancers with daily foreign communication.
+- Content creators & live streamers to reach global range audience.
+- Educational organizations to teach courses to multilingual students.
 
 - [**Next JS**](https://nextjs.org/): React-based framework for building server-side rendered and statically exported web apps.
 - [**Typescript**](https://www.typescriptlang.org/): Statically typed superset of JavaScript, adds type annotations to enhance code reliability & readability
