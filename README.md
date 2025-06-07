@@ -1,6 +1,3 @@
-<p align="center">
-<img src="https://sdmntprukwest.oaiusercontent.com/files/00000000-c4f4-6243-a64c-32ce52bb42a9/raw?se=2025-06-07T01%3A24%3A07Z&sp=r&sv=2024-08-04&sr=b&scid=063e61f4-95fc-5c79-8502-abdda5360c27&skoid=0a4a0f0c-99ac-4752-9d87-cfac036fa93f&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-06-07T00%3A17%3A38Z&ske=2025-06-08T00%3A17%3A38Z&sks=b&skv=2024-08-04&sig=Fk2qXepuoaIfygdMkTwkBrHB6QxzKrrgqwr%2B5aylRQs%3D>
-
 # LingoIQ
 LingoIQ is a web application that allows users who speak different languages to converse with ease by translating the audio on the fly and speaking the translated audio in the native language of the user as well as provide them with translated captions. It also offers HD video and screen share, and can accommodate up to 100 concurrent users. The application also generates automatic meeting summaries and transcripts, making it easy for participants to review important details from the meeting.
 
