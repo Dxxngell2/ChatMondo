@@ -41,37 +41,17 @@ LingoIQ is a web application that allows users who speak different languages to 
 ## Architecture
 <img width="1073" alt="Screenshot 2023-03-18 at 11 09 44 AM" src="https://user-images.githubusercontent.com/83623339/226187854-03ec9559-1122-42a3-93c7-80614fdae396.png">
 
-## Installation steps
+## Installation steps (windows)
 
-1. - Fork the [repo](https://github.com/swasthikshetty10/hackoverflow)
-   - Clone the repo to your local system `git clone https://github.com/swasthikshetty10/hackoverflow.git`
+
+1. Open Powershell as administrator and run `git clone https://github.com/Dxxngell2/LingoIQ.git`
    - Change current directory `cd hackoverflow`
-2. Install latest version of [Nodejs](https://nodejs.org/en/) and install all the dependencies:
+2. Run the installtion script
 
 ```bash
-npm install
+./install.ps1
 ```
 
-3. Generate prisma client
-
-```bash
-npx prisma generate
-```
-
-4. Copy and Rename the .env.example to .env, place it in the root directory and fill the essential vars.
-
-```bash
-cp .env.example .env
-```
-
-> **Warning**
-> Do not rename the original .env.example, it is used to keep track for env vars list as .env with values is gitignored
-
-5. Run the development server:
-
-```bash
-npm run dev
-```
 
 ## Known Issues
 - There is latency of around 5-6 seconds between the original time and the time when translated audio is spoken out. The latency issue can be tackled by following ways:
